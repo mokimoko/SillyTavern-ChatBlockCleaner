@@ -1,0 +1,11 @@
+{
+    "display_name": "ChatBlockCleaner",
+    "loading_order": 1000,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "mokimoko",
+    "version": "1.1.0",
+    "auto_update": false
+}

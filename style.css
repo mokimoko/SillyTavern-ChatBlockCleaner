@@ -1,0 +1,44 @@
+.cbc-content {
+    gap: 8px;
+    padding-bottom: 8px;
+}
+
+.cbc-panel label {
+    font-weight: 600;
+}
+
+.cbc-panel small {
+    color: var(--SmartThemeBodyColor);
+    line-height: 1.35;
+    opacity: 0.65;
+}
+
+.cbc-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 4px;
+}
+
+.cbc-clean-button {
+    border-color: color-mix(in srgb, var(--SmartThemeEmColor) 45%, var(--SmartThemeBorderColor));
+}
+
+.cbc-status {
+    min-height: 1.4em;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+.cbc-status-info {
+    color: var(--SmartThemeBodyColor);
+    opacity: 0.8;
+}
+
+.cbc-status-success {
+    color: var(--SmartThemeQuoteColor);
+}
+
+.cbc-status-error {
+    color: var(--SmartThemeEmColor);
+}
