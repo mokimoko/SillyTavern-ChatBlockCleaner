@@ -7,5 +7,6 @@
     "css": "style.css",
     "author": "mokimoko",
     "version": "1.1.0",
+    "homePage": "https://github.com/mokimoko/SillyTavern-ChatBlockCleaner",
     "auto_update": false
 }
