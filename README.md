@@ -10,3 +10,12 @@ ChatBlockCleaner removes tagged XML blocks and everything inside them from a Sil
 - **Remove blocks** permanently removes them from the current saved chat.
 
 Only complete blocks with both an opening and closing tag are removed.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+

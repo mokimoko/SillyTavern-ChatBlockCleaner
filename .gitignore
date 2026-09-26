@@ -1,0 +1,6 @@
+
+# Local development files
+/_local/
+/tests/
+/AGENTS.md
+/node_modules/
